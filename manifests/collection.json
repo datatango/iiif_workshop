@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://datatango.github.io/iiif_workshop/manifests/manifest2.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://datatango.github.io/iiif_workshop/manifests/manifest.json",
+    "label" : "[Click to edit label]"
   } ]
 }
